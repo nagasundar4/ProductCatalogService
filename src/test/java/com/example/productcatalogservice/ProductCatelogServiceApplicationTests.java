@@ -1,4 +1,4 @@
-package com.nagasystems.productcatelogservice;
+package com.example.productcatalogservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

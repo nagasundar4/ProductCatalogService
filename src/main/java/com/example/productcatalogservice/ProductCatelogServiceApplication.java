@@ -1,4 +1,4 @@
-package com.nagasystems.productcatelogservice;
+package com.example.productcatalogservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
