@@ -99,8 +99,4 @@ public class ProductController {
         return from(result);
     }
 
-    @GetMapping()
-    public List<ProductDto> getProducts() {
-        return new ArrayList<ProductDto>();
-    }
-}
+   }
